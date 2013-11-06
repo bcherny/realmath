@@ -1,0 +1,24 @@
+{
+  "name": "realmath",
+  "version": "0.0.0",
+  "description": "Do match with real symbols",
+  "main": "realmath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eighttrackmind/realmath.git"
+  },
+  "keywords": [
+    "math",
+    "symbol",
+    "sign",
+    "notation"
+  ],
+  "author": "Boris Cherny <boris@performancejs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eighttrackmind/realmath/issues"
+  }
+}
